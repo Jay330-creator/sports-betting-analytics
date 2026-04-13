@@ -1,3 +1,3 @@
 # sports-betting-analytics
 SQL + Tableau project analyzing sports betting performance, profitability, and risk through an interactive dashboard
-![Dashboard](images/SpoersTab.png)
+![Dashboard](images/SportsTab.png)
