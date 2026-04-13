@@ -1,7 +1,9 @@
 # sports-betting-analytics
 ## Overview
 This project analyzes real-world sports betting data to evaluate profitability, win rate, and risk across different sports and betting strategies. Using SQL for data transformation and Tableau for visualization, the project identifies which betting approaches generate the highest returns and where inefficiencies exist.
+
 ![Dashboard](images/SportsTab.png)
+
 ## Dataset
 The dataset consists of tracked betting activity across multiple sports, including bet type, odds, stake, result, and profit.
 ## Project Structure
