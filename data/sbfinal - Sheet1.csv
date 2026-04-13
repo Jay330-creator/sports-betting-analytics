@@ -1,0 +1,83 @@
+Date,Sport,Team/Player,Bet Type,Odds,Stake ,Result,Profit ,Odds Range
+10/30/25,NFL,Ravens/Dolphins,Total (Under 51.5),114,50,Win,57,Underdog
+10/30/25,NFL,Ravens/Dolphins,Total (Under 51.5),-115,100,Win,86.96,Favorite
+11/02/25,NFL,49ers,Spread (Alt -6.5),190,125,Win,237.5,Underdog
+11/02/25,NFL,Zach Ertz,Prop (Over 37.5),-112,75,Win,66.96,Favorite
+11/06/25,NFL,Ashton Jeanty,Prop (Over 2.5 Rec),-126,126,Win,100,Favorite
+11/09/25,NFL,Jaguars,Spread (Alt -2.5),110,70,Loss,-70,Even
+11/09/25,NFL,Bears,Spread (Alt -6.5),124,220,Loss,-220,Underdog
+11/16/25,NFL,Packers,Spread (Alt -6.5),-132,640,Win,484.85,Favorite
+11/17/25,NFL,Cowboys,Spread (1H -2.5),-110,189,Win,171.82,Favorite
+11/20/25,NFL,Bills,Spread (1H -2.5),-115,285,Win,247.83,Favorite
+11/23/25,NFL,Chiefs,Spread (Alt -6.5),140,250,Loss,-250,Underdog
+11/23/25,NFL,Steelers/Bears,Total (1H Under 23.5),-120,50,Loss,-50,Favorite
+11/24/25,NFL,Panthers/49ers,Total (1H Under 24.5),-125,150,Win,120,Favorite
+11/24/25,NFL,Panthers/49ers,Total (1H Under 24.5 Boost),104,100,Win,104,Underdog
+11/27/25,NFL,Jared Goff,Prop (Over 239.5),134,100,Win,134,Underdog
+11/27/25,NFL,Chiefs,Spread (Alt -2.5),-148,234,Loss,-234,Favorite
+11/30/25,NFL,C.J. Stroud,Prop (Over 33.5),-118,50,Win,42.37,Favorite
+11/30/25,NFL,Dolphins,Spread (Alt -6.5),112,242,Loss,-242,Even
+11/30/25,NFL,Browns,Spread (Alt -2.5),255,50,Loss,-50,Underdog
+12/01/25,NFL,Giants/Patriots,Total (1H Under 26.5),-105,100,Loss,-100,Favorite
+12/04/25,NFL,Dak Prescott,Prop (Over 35.5),-109,100,Win,91.74,Favorite
+12/04/25,NFL,Cowboys/Lions,Total (1H Under 28.5),-109,100,Loss,-100,Favorite
+12/07/25,NFL,Dolphins,Spread (-2.5),-118,242,Win,205.08,Favorite
+12/08/25,NFL,Justin Herbert,Prop (Over 217.5),-112,112,Loss,-112,Favorite
+12/11/25,NFL,Buccaneers,Spread (1H -2.5),-120,150,Loss,-150,Favorite
+12/21/25,NFL,Bengals,Spread (1H -2.5),-104,100,Win,96.15,Favorite
+12/21/25,NFL,Vikings,Spread (-2.5),-115,200,Win,173.91,Favorite
+12/22/25,NFL,49ers,Spread (1H -2.5),-110,75,Win,68.18,Favorite
+12/25/25,NFL,Cowboys,Spread (1H -6.5),-110,100,Win,90.91,Favorite
+12/28/25,NFL,49ers,Spread (1H -2.5),-110,156.55,Win,142.32,Favorite
+12/29/25,NFL,Rams/Falcons,Total (1H Under 24.5),-125,250,Win,200,Favorite
+01/11/26,NFL,Eagles,Spread (1H -2.5),-110,500,Win,454.55,Favorite
+10/21/25,NBA,Rockets/Thunder,1H Under 110.5,-110,200,Win,181.82,Favorite
+10/21/25,NBA,Warriors/Lakers,1H Under 115.5,-200,100,Win,50,Favorite
+10/21/25,NBA,Rockets,Moneyline (Live),-150,100,Loss,-100,Favorite
+10/22/25,NBA,Timberwolves,Spread (-3.5),-130,125,Win,96.15,Favorite
+10/22/25,NBA,Timberwolves,Spread (-3.5),154,25,Win,38.5,Underdog
+10/24/25,NBA,Timberwolves,Spread (-1.5),-110,100,Loss,-100,Favorite
+10/25/25,NBA,Magic,Spread (-2.5),105,100,Loss,-100,Even
+10/27/25,NBA,Cavaliers,1H Winner,123,50,Win,61.5,Underdog
+10/27/25,NBA,Raptors/Spurs,1H Under 113.5,-106,50,Win,47.17,Favorite
+10/29/25,NBA,Kings/Bulls,1Q Under 61.5,-118,55,Loss,-55,Favorite
+10/30/25,NBA,Warriors,1H Spread (-1.5),-110,50,Loss,-50,Favorite
+10/30/25,NBA,Wizards,1Q Spread (+6.5),-107,50,Loss,-50,Favorite
+11/07/25,NBA,Bulls/Bucks,Under 240.5,134,50,Win,67,Underdog
+11/10/25,NBA,Spurs,Spread (-2.5),-128,340,Win,265.63,Favorite
+11/12/25,NBA,Wizards,1Q Spread (+7.5),-188,198,Loss,-198,Favorite
+11/18/25,NBA,Suns,1Q Winner,-104,86,Win,82.69,Favorite
+11/26/25,NBA,Pistons,1H Spread (-1.5),-106,100,Loss,-100,Favorite
+11/26/25,NBA,Pistons,1H Spread (-1.5),142,100,Loss,-100,Underdog
+12/02/25,NBA,Wizards,1Q Spread (+7.5),-148,100,Win,67.57,Favorite
+12/09/25,NBA,Heat,1H Spread (+2.5),-117,100,Win,85.47,Favorite
+04/10/26,NBA,Grizzlies/Jazz,Under 248.5,-108,50,Win,46.3,Favorite
+04/10/26,NBA,Nuggets,Spread (-2),-110,50,Win,45.45,Favorite
+03/28/26,MLB,Cubs,F5 Spread (-0.5),-154,50,Win,32.47,Favorite
+03/28/26,MLB,Cubs,F5 Spread (-0.5),-103,25,Win,24.5,Favorite
+03/30/26,MLB,Reds,F5 Moneyline,-135,59,Win,43.7,Favorite
+03/30/26,MLB,Twins/Royals,1st Inning Under 0.5,108,25,Win,27,Even
+03/30/26,MLB,Twins/Royals,1st Inning Under 0.5,130,25,Win,32.5,Underdog
+04/02/26,MLB,Twins/Royals,F5 Under 5.5,-160,50,Win,31.25,Favorite
+04/03/26,MLB,Dodgers,F5 Result (ML),-145,25,Win,17.25,Favorite
+04/07/26,MLB,Dbacks/Mets,Under 7.5,-158,30,Win,18.99,Favorite
+04/08/26,MLB,Padres/Pirates,1st Inning Under 0.5,-162,25,Win,15.43,Favorite
+04/08/26,MLB,Padres/Pirates,1st Inning Under 0.5,-134,25,Win,18.66,Favorite
+04/10/26,MLB,Pirates/Cubs,Under 2.5,110,50,Win,55,Even
+04/10/26,MLB,Pirates/Cubs,Under 3.5,-138,50,Win,36.23,Favorite
+04/10/26,MLB,Cubs,Run Line (-1.5),176,25,Cash Out,-19.89,Underdog
+04/10/26,MLB,Cubs,Run Line (-1.5),220,25,Cash Out,-19.89,Underdog
+10/15/25,NCAA,Under 28.5,1H Total,-122,115.9,Win,94.99,Favorite
+10/17/25,NCAA,Under 31.5,1H Total,-128,125,Push/Cash,0,Favorite
+10/17/25,NCAA,Under 31.5,1H Total,102,25,Push/Cash,0,Even
+10/18/25,NCAA,Ohio State -23.5,Spread,-148,50,Cash Out,-4.65,Favorite
+10/18/25,NCAA,Ohio State -23.5,Spread,-114,25,Cash Out,-2.32,Favorite
+10/18/25,NCAA,Texas -9.5,Spread,-166,114,Cash Out,-10.8,Favorite
+10/25/25,NCAA,South Florida -3.5,1H Spread,128,25,Win,32,Underdog
+10/25/25,NCAA,South Florida -3.5,1H Spread,-102,75,Win,73.53,Favorite
+10/25/25,NCAA,Alabama -2.5,1Q Spread,-130,130,Win,100,Favorite
+11/06/25,NCAA,North Texas -6.5,1H Spread,-110,50,Win,45.45,Favorite
+11/06/25,NCAA,North Florida +23.5,1H Spread,-112,50,Loss,-50,Favorite
+11/07/25,NCAA,Under 151.5,Total,-114,50,Win,43.86,Favorite
+11/08/25,NCAA,SMU -9.5,Spread,-125,100,Cash Out,-9.16,Favorite
+11/13/25,NCAA,Wichita State -3.5,1H Spread,-104,198,Win,190.38,Favorite

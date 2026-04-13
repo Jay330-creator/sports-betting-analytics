@@ -1,0 +1,34 @@
+-- Profit by Sport
+CREATE TABLE profit_by_sport AS
+SELECT 
+    field2 AS sport, 
+    SUM(CAST(field8 AS REAL)) AS total_profit
+FROM "sbfinal - Sheet1"
+GROUP BY field2
+ORDER BY total_profit DESC;
+
+-- Win Rate by Sport
+CREATE TABLE win_rate_by_sport AS
+SELECT 
+    field2 AS sport,
+    AVG(CASE WHEN field7 = 'Win' THEN 1.0 ELSE 0.0 END) AS win_rate
+FROM "sbfinal - Sheet1"
+GROUP BY field2;
+
+-- Profit by Bet Type
+CREATE TABLE profit_by_bet_type AS
+SELECT 
+    field4 AS bet_type,
+    SUM(CAST(field8 AS REAL)) AS total_profit
+FROM "sbfinal - Sheet1"
+GROUP BY field4
+ORDER BY total_profit DESC;
+
+-- Profit by Odds Range
+CREATE TABLE profit_by_odds_range AS
+SELECT 
+    field9 AS odds_range,
+    SUM(CAST(field8 AS REAL)) AS total_profit
+FROM "sbfinal - Sheet1"
+GROUP BY field9
+ORDER BY total_profit DESC;

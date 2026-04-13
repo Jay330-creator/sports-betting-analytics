@@ -1,0 +1,9 @@
+-- View all created tables
+
+SELECT * FROM profit_by_sport;
+
+SELECT * FROM win_rate_by_sport;
+
+SELECT * FROM profit_by_bet_type;
+
+SELECT * FROM profit_by_odds_range;
